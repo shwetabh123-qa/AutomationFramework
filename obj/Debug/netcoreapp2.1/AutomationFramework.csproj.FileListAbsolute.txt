@@ -1,0 +1,11 @@
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\bin\Debug\netcoreapp2.1\AutomationFramework.deps.json
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\bin\Debug\netcoreapp2.1\AutomationFramework.runtimeconfig.json
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\bin\Debug\netcoreapp2.1\AutomationFramework.runtimeconfig.dev.json
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\bin\Debug\netcoreapp2.1\AutomationFramework.dll
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\bin\Debug\netcoreapp2.1\AutomationFramework.pdb
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp2.1\AutomationFramework.csproj.CoreCompileInputs.cache
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp2.1\AutomationFramework.AssemblyInfoInputs.cache
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp2.1\AutomationFramework.AssemblyInfo.cs
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp2.1\AutomationFramework.dll
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp2.1\AutomationFramework.pdb
+C:\Users\Admin\C#Workspace\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp2.1\AutomationFramework.csprojAssemblyReference.cache
